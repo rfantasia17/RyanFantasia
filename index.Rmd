@@ -1,0 +1,19 @@
+---
+title: "Ryan Fantasia "
+image: "Unknown.png"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: Research Gate
+    url: "https://www.researchgate.net/profile/Ryan-Fantasia-2"
+  - label: Email
+    url: "mailto:rfantasia@ucsd.edu"
+output:
+  postcards::jolla
+---
+ 
+I am a classically trained data scientist living in the San Francisco Bay Area. 
+Currently I work on the Oculus team at Facebook. I love talking about baseball, 
+true crime podcasts, and causal inference.
